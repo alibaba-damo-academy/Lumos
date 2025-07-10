@@ -1,0 +1,3 @@
+META:
+  - path: 'pre_tokenize/data/test_image/merge-record.json'
+    ratio: 1.0
