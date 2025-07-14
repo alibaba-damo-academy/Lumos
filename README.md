@@ -7,10 +7,10 @@
 
 <b> Lumos Project will release a collection of code bases for frontier generative model research by Alibaba DAMO Academy. </b>
 
-Specifically, we release:
-- [Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective](LINK_TO_BE_ADDED)
+For now, we release:
+- [Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective](https://arxiv.org/abs/2507.08801)
 
-## 📰 News
+### 📰 News
 
 - **[2025-07] 🎉🎉🎉  We release Lumos-1, including its inference, fine-tuning instructions and checkpoints!**
 
@@ -26,7 +26,7 @@ Specifically, we release:
 
 <b> A family of autoregressive models, following standard LLM architectures, capable of text-to-image, text-to-video and image-to-video generations. </b>
 
-[![Lumos-1](https://img.shields.io/badge/Paper-Lumos--1-FC6C85.svg?logo=arXiv)](LINK_TO_BE_ADDED)&#160;
+[![Lumos-1](https://img.shields.io/badge/Paper-Lumos--1-FC6C85.svg?logo=arXiv)](https://arxiv.org/abs/2507.08801)&#160;
 [![hf_checkpoint](https://img.shields.io/badge/🤗-HuggingFace-FC6C85.svg)](https://huggingface.co/Alibaba-DAMO-Academy/Lumos-1)
 
 
@@ -264,7 +264,7 @@ Please remember to:
 @article{Yuan2025Lumos-1,
   title={Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective},
   author={Yuan, Hangjie and Chen, Weihua and Cen, Jun and Yu, Hu and Liang, Jingyun and Chang, Shuning and Lin, Zhihui and Feng, Tao and Liu, Pengwei and Xing, Jiazheng and Luo, Hao and Tang, Jiasheng and Wang, Fan and Yang, Yi},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  journal={arXiv preprint arXiv:2507.08801},
   year={2025}
 }
 ```
