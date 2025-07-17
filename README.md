@@ -94,7 +94,8 @@ Please refer to [INSTALL.md](lumos-1/INSTALL.md) for detailed instructions.
 
 Lumos-1 depends on discrete visual tokenizers like COSMOS.
 In our implementation, we adopted COSMOS-DV4x8x8.
-We can download the weights on [COSMOS huggingface projects](https://huggingface.co/nvidia/Cosmos-Tokenizer-DV8x8x8) to local (i.e., Cosmos-Tokenizer-DV4x8x8/) for visual tokenization.
+We can download the weights on [COSMOS huggingface projects](https://huggingface.co/nvidia/Cosmos-Tokenizer-DV8x8x8) to local (i.e., Cosmos-Tokenizer-DV4x8x8/) for visual tokenization, and download the `text_tokenizer.json` on [Lumos-1 Hugging Face page](https://huggingface.co/Alibaba-DAMO-Academy/Lumos-1/tree/main/tokenizer).
+
 The paths are organized as follows:
 
 ```
