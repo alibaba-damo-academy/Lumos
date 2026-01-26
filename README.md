@@ -12,6 +12,8 @@ For now, we release:
 
 ### 📰 News
 
+**If you are interested in our customized video generation research, please refer to [Lumos-Custom Project](https://github.com/alibaba-damo-academy/Lumos-Custom).**
+
 - **[2025-07] 🎉🎉🎉  We release Lumos-1, including its inference, fine-tuning instructions and checkpoints!**
 
 
