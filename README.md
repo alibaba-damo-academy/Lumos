@@ -7,7 +7,7 @@
 
 <b> Lumos Project releases a collection of code bases for frontier generative model research by Alibaba DAMO Academy. </b>
 For now, we release:
-- [Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective](https://arxiv.org/abs/2507.08801) (ICLR 2026)
+- [Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective](https://arxiv.org/abs/2507.08801) (ICLR 2026) [[Jump to Lumos-1 code]](https://github.com/alibaba-damo-academy/Lumos?tab=readme-ov-file#%EF%B8%8F-lumos-1-installation)
 
 ### 📰 News
 
