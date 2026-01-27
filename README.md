@@ -32,7 +32,17 @@ For now, we release:
 [![Lumos-1](https://img.shields.io/badge/Paper-Lumos--1-FC6C85.svg?logo=arXiv)](https://arxiv.org/abs/2507.08801)&#160;
 [![hf_checkpoint](https://img.shields.io/badge/🤗-HuggingFace-FC6C85.svg)](https://huggingface.co/Alibaba-DAMO-Academy/Lumos-1)
 
+<details>
+  <summary><strong>📘 Click to view Abstract</strong></summary>
+  <div align="left">
 
+> Autoregressive large language models (LLMs) have unified a vast range of language tasks, inspiring preliminary efforts in autoregressive (AR) video generation. Existing AR video generators either diverge from standard LLM architectures, depend on bulky external text encoders, or incur prohibitive latency due to next-token decoding.
+  
+> In this paper, we introduce Lumos-1, an LLM-based unified model for AR video generation with efficient discrete diffusion. Firstly, to fit videos with LLMs, we identify that 1D RoPE is ill-suited for visual spatiotemporal correlation modeling, and while demonstrated to be useful, naive 3D RoPE exhibits imbalanced frequency spectra. Therefore, we propose MM‑RoPE, which preserves the original textual RoPE while seamlessly accommodating video data with comprehensive frequency spectra and scaled 3D positions. Secondly, to fit the video data's nature and overcome the inefficiency of next-token decoding, we adopt a parallel and mask-based discrete diffusion with the intra-frame bidirectional and inter-frame causal attention masks. Based on this attention mask, we uncover the frame‑wise loss imbalance issue caused by spatial information redundancy and propose Autoregressive Discrete Diffusion Forcing, which introduces temporal tube masking during training with a compatible inference‑time masking policy to avoid quality degradation.
+  
+> Despite using only 48 GPUs for pre-training, limited data and a discrete tokenizer, Lumos-1 achieves results **surpassing those of Show-o2 on GenEval, COSMOS-Video2World on VBench-I2V, and OpenSoraPlan on VBench-T2V**.
+  </div>
+</details>
 
 </div>
 
