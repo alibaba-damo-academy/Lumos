@@ -17,7 +17,7 @@ For now, we release:
 
 **[2026-01]** 🎉🎉🎉  Lumos-1 is accepted to ICLR 2026!
 
-**[2026-03]** 🎉🎉🎉  We release the SFT version of Lumos-1 (v2-stage2-joint-384p-sft), which significantly boosts performance on GenEval (79.1) and VBench (78.9) benchmarks!
+**[2026-03]** 🎉🎉🎉  We release the **SFT version of Lumos-1** (v2-stage2-joint-384p-sft), which significantly boosts performance on GenEval (79.1) and VBench (78.9) benchmarks!
 
 #
 
