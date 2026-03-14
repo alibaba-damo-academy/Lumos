@@ -15,8 +15,9 @@ For now, we release:
 
 **[2025-07]** 🎉🎉🎉  We release Lumos-1, including its inference, fine-tuning instructions and checkpoints!
 
-**[2026-01]** 🎉🎉🎉  Lumos-1 is accepted to ICLR 2026! The SFT version of Lumos-1 will be released soon, which largely boost its performance.
+**[2026-01]** 🎉🎉🎉  Lumos-1 is accepted to ICLR 2026!
 
+**[2026-03]** 🎉🎉🎉  We release the SFT version of Lumos-1 (v2-stage2-joint-384p-sft), which significantly boosts performance on GenEval (79.1) and VBench (78.9) benchmarks!
 
 #
 
@@ -266,10 +267,11 @@ Please remember to:
 | 1B Stage 1 256p   | 1B   | [1B/stage-1-image](https://huggingface.co/Alibaba-DAMO-Academy/Lumos-1/tree/main/1B/stage-1-image)       |
 | 1B Stage 2 256p   | 1B   | [1B/stage-2-joint](https://huggingface.co/Alibaba-DAMO-Academy/Lumos-1/tree/main/1B/stage-2-joint)       |
 | 1B Stage 2 384p   | 1B   | [1B/stage-2-joint-384p](https://huggingface.co/Alibaba-DAMO-Academy/Lumos-1/tree/main/1B/stage-2-joint-384p) |
+| **1B Stage 2 384p SFT** 🆕 | 1B   | [1B/v2-stage2-joint-384p-sft](https://huggingface.co/Alibaba-DAMO-Academy/Lumos-1/tree/main/1B/v2-stage2-joint-384p-sft) |
 | 3B Stage 1 256p   | 3B   | [3B/stage-1-image](https://huggingface.co/Alibaba-DAMO-Academy/Lumos-1/tree/main/3B/stage-1-image)       |
 | 3B Stage 2 256p   | 3B   | [3B/stage-2-joint](https://huggingface.co/Alibaba-DAMO-Academy/Lumos-1/tree/main/3B/stage-2-joint)       |
 | 3B Stage 2 384p   | 3B   | [3B/stage-2-joint-384p](https://huggingface.co/Alibaba-DAMO-Academy/Lumos-1/tree/main/3B/stage-2-joint-384p) |
-
+| **3B Stage 2 384p SFT** 🆕 | 3B   | [3B/v2-stage2-joint-384p-sft](https://huggingface.co/Alibaba-DAMO-Academy/Lumos-1/tree/main/3B/v2-stage2-joint-384p-sft) |
 
 
 ## 📄 Citation
