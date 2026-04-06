@@ -26,7 +26,7 @@ For now, we release:
 
 <img src="lumos-1/assets/logo.png" width="30%"/>
 
-# Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective
+# Lumos-1: On Autoregressive Video Generation with Discrete Diffusion from a Unified Model Perspective
 
 <b> A family of autoregressive models, following standard LLM architectures, capable of text-to-image, text-to-video and image-to-video generations. </b>
 
